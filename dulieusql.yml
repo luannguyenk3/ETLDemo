@@ -1,5 +1,1 @@
-database:
-  server: 'MEOW\MSSQL123'
-  database: 'DEMOETLWITHPYTHON'
-  username: 'etldemo'
-  password: '123456'
+
